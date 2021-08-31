@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewAbril</string>
+    <string name="channel_id" />
+    <string name="msg_token_fmt" translatable="false"/>FCM registration Token: %s
+</resources>

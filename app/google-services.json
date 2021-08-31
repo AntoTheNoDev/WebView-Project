@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477190094507",
+    "project_id": "webviewabril",
+    "storage_bucket": "webviewabril.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477190094507:android:99b8163f1f832816ddc1ee",
+        "android_client_info": {
+          "package_name": "com.example.webviewabril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477190094507-2f1u5qjh95r731cuk1fkp7590m1arn0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnJlGWjEN9_mEbR6C3oPwptV23JBe2w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477190094507-2f1u5qjh95r731cuk1fkp7590m1arn0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
