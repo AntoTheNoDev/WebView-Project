@@ -1,5 +1,7 @@
 # Proyecto Android Studio Webview 17/5/2021 
 
+Aplicacion hecha en practicas de empresa en grado medio en el año 2021 si tener ni idea de Android Studio y un pelin de idea de Java.
+
 ## Permisos 
 Estos son los permisos que se han utilizado 
 ```xml
